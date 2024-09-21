@@ -15,7 +15,7 @@ class MyApp extends StatelessWidget {
       theme: ThemeData(
         primarySwatch: Colors.blue,
       ),
-      home: const Login(), // Inicie a aplicação com a tela de login
+      home: const Login(), 
     );
   }
 }
